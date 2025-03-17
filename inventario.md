@@ -6,6 +6,10 @@ Processori
 Schede madri
 
 PERIFERICHE
+<<<<<<< HEAD
 tastiere
+=======
+Mouse
+>>>>>>> feature/creazione_mouse
 
 Elettronica Padovana
